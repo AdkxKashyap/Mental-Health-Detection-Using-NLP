@@ -122,3 +122,8 @@ models/
 # IDE
 .vscode/
 .idea/
+# Ignore local model artifacts
+src/model/mental_health_distilbert/
+src/model/results/
+*.safetensors
+*.pt
