@@ -45,7 +45,7 @@ This project aims to explore how modern NLP architectures can improve mental-hea
 ## Jupyter Notebook
 
 📘 Notebook:  
-[Project Notebook](./notebooks)
+[Project Notebook](./notebooks/mental_health_risk_classification.ipynb)
 
 ---
 
