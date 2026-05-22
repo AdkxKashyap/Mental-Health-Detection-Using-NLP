@@ -1,4 +1,4 @@
-MODEL_PATH = "app/model/mental_health_distilbert"
+MODEL_PATH = "AkashK619/mental-health-distilbert"
 
 MAX_LENGTH = 256
 
