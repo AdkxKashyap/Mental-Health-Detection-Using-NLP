@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from inference import predict_mental_health
+from app.inference import predict_mental_health
 
 app = FastAPI()
 

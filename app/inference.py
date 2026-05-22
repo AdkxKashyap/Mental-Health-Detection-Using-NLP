@@ -4,7 +4,7 @@ from transformers import (
     AutoTokenizer,
     AutoModelForSequenceClassification
 )
-from config import (
+from app.config import (
     MODEL_PATH,
     MAX_LENGTH,
     ID_TO_LABEL
